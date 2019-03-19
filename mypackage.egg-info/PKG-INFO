@@ -1,0 +1,21 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/<username>/<package-name>
+Author: <Your Name>
+Author-email: <Your Email>
+License: MIT
+Description: # mrpackage
+        This library was created as an example of how to publish my own package
+        
+        ##building this package locally
+        'python setup.py sdist'
+        
+        ##installing this package from GitHub
+        'pip install git+'
+        
+        ##updating this package from GitHub
+        'pip install --upgrade git+'
+        
+Platform: UNKNOWN
